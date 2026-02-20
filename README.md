@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Darwin Chuqui</h1>
-<h3 align="center">Software Engineering Student · Cuenca, Ecuador 🇪🇨</h3>
+<h3 align="center">Software Engineering Student · Cuenca, Ecuador </h3>
 <h4 align="center">Microservices · Offline-First · DevOps · Clean Architecture</h4>
 
 <p align="center">
@@ -17,7 +17,6 @@
 
 Estudiante de Ingeniería en Ciencias de la Computación en la **Universidad de Cuenca**, apasionado por construir sistemas robustos con arquitecturas bien diseñadas. Me especializo en desarrollo full-stack con enfoque en **microservicios**, **offline-first** y **DevOps**.
 
-- � Cuenca, Ecuador
 - 🏗 Diseño architecturas escalables: SOA, microservicios, clean architecture
 - 🐳 Contenerizo y despliego con Docker y Kubernetes
 - 🔐 Interesado en seguridad ofensiva y defensiva
@@ -143,7 +142,12 @@ PWA instalable en iOS/Android con soporte offline, mapa interactivo y panel de a
 
 ## 📈 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=DarwinxProgramer&show_icons=true&theme=dark&hide_border=true&no-bg=true&no-frame=true&count_private=true" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DarwinxProgramer&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DarwinxProgramer&theme=dark&hide_border=true" />
@@ -161,6 +165,7 @@ PWA instalable en iOS/Android con soporte offline, mapa interactivo y panel de a
 - 🏗 Aplicando **arquitectura limpia** en proyectos reales
 - 🌐 Construyendo sistemas **Offline-First** para entornos con baja conectividad
 - ⚡ Experimentando con **FastAPI** y arquitecturas políglota
+- ............
 
 ---
 
